@@ -1,0 +1,5 @@
+function hello() {
+    var h = "hellóka"
+    return h;
+}
+var h = hello();
